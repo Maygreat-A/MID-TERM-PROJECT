@@ -187,6 +187,5 @@ This project is for academic purposes and is not licensed for commercial use.
 
 ---
 
-✨ Pro tip: When you’ve built a working version, you can replace the *Screenshot placeholders* with real images or GIF demos to really impress your lecturer.
 
 
